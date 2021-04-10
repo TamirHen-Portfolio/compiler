@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Flex
+.actionScriptProperties
+.flexProperties
+.flexLibProperties
+.project
+.settings
+bin-debug
+html-template
+bin
